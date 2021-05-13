@@ -26,7 +26,7 @@ resolution_ and the _scope chain_.
 ![Nested elevators](https://curriculum-content.s3.amazonaws.com/web-development/js/principles/scope-chain-readme/nested_elevators.gif)
 
 In addition to the `#engineering` channel, every software engineer is a member
-of Flatbook's `#general` channel. Engineers can see all of the messages sent in
+of Axibook's `#general` channel. Engineers can see all of the messages sent in
 both channels. If a message in `#general` piques our interest, we can refer to
 the message in `#engineering` despite the fact that it was posted in `#general`.
 To bend the analogy back towards functions and scope, everything _declared_ in
